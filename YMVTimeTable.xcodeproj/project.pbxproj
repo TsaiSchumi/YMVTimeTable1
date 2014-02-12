@@ -1,0 +1,372 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1B22871811488AC300C839A3 /* DetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B22871711488AC300C839A3 /* DetailController.m */; };
+		1B2287F61148CA2500C839A3 /* default_theater00.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B2287F51148CA2500C839A3 /* default_theater00.png */; };
+		1B30C1EA11477EF300C2392B /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B30C1E911477EF300C2392B /* MapKit.framework */; };
+		1B69F11D1147AFF100100D34 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B69F11C1147AFF100100D34 /* icon.png */; };
+		1B7307681144CF82005CA2D4 /* YMVData.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B7307671144CF82005CA2D4 /* YMVData.m */; };
+		1B7307991144E0CD005CA2D4 /* MovieList.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B7307981144E0CD005CA2D4 /* MovieList.m */; };
+		1B730B8B114634B4005CA2D4 /* MainMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B730B89114634B4005CA2D4 /* MainMenuViewController.m */; };
+		1B730B8C114634B4005CA2D4 /* MainMenuViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1B730B8A114634B4005CA2D4 /* MainMenuViewController.xib */; };
+		1BA734EB118FD0900083CC18 /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1BA734E9118FD0900083CC18 /* DetailViewController.xib */; };
+		1D3623260D0F684500981E51 /* YMVTimeTableAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* YMVTimeTableAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
+		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
+		28F335F11007B36200424DE2 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28F335F01007B36200424DE2 /* RootViewController.xib */; };
+		D3BA7A0018AA3B120050B70B /* HTMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = D3BA79FC18AA3B120050B70B /* HTMLNode.m */; };
+		D3BA7A0118AA3B120050B70B /* HTMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = D3BA79FE18AA3B120050B70B /* HTMLParser.m */; };
+		D3BA7A0218AA3B120050B70B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D3BA79FF18AA3B120050B70B /* README.md */; };
+		D3BA7A0418AA3BDA0050B70B /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D3BA7A0318AA3BDA0050B70B /* libxml2.dylib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1B22871611488AC300C839A3 /* DetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailController.h; sourceTree = "<group>"; };
+		1B22871711488AC300C839A3 /* DetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailController.m; sourceTree = "<group>"; };
+		1B2287F51148CA2500C839A3 /* default_theater00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = default_theater00.png; sourceTree = "<group>"; };
+		1B30C1E911477EF300C2392B /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		1B69F11C1147AFF100100D34 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		1B7307661144CF82005CA2D4 /* YMVData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMVData.h; sourceTree = "<group>"; };
+		1B7307671144CF82005CA2D4 /* YMVData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMVData.m; sourceTree = "<group>"; };
+		1B7307961144DF7F005CA2D4 /* SynthesizeSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SynthesizeSingleton.h; sourceTree = "<group>"; };
+		1B7307971144E0CD005CA2D4 /* MovieList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovieList.h; sourceTree = "<group>"; };
+		1B7307981144E0CD005CA2D4 /* MovieList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MovieList.m; sourceTree = "<group>"; };
+		1B730B88114634B4005CA2D4 /* MainMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuViewController.h; sourceTree = "<group>"; };
+		1B730B89114634B4005CA2D4 /* MainMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenuViewController.m; sourceTree = "<group>"; };
+		1B730B8A114634B4005CA2D4 /* MainMenuViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainMenuViewController.xib; path = Classes/MainMenuViewController.xib; sourceTree = "<group>"; };
+		1BA734E9118FD0900083CC18 /* DetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DetailViewController.xib; path = Classes/DetailViewController.xib; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* YMVTimeTableAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMVTimeTableAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* YMVTimeTableAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMVTimeTableAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* YMVTimeTable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YMVTimeTable.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AAE50D9B0CCF005BE974 /* YMVTimeTable_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMVTimeTable_Prefix.pch; sourceTree = "<group>"; };
+		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		28C286E00D94DF7D0034E888 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		28F335F01007B36200424DE2 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* YMVTimeTable-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "YMVTimeTable-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		D3BA79FB18AA3B120050B70B /* HTMLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTMLNode.h; sourceTree = "<group>"; };
+		D3BA79FC18AA3B120050B70B /* HTMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTMLNode.m; sourceTree = "<group>"; };
+		D3BA79FD18AA3B120050B70B /* HTMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTMLParser.h; sourceTree = "<group>"; };
+		D3BA79FE18AA3B120050B70B /* HTMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTMLParser.m; sourceTree = "<group>"; };
+		D3BA79FF18AA3B120050B70B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		D3BA7A0318AA3BDA0050B70B /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3BA7A0418AA3BDA0050B70B /* libxml2.dylib in Frameworks */,
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				1B30C1EA11477EF300C2392B /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1B730B88114634B4005CA2D4 /* MainMenuViewController.h */,
+				1B730B89114634B4005CA2D4 /* MainMenuViewController.m */,
+				28C286DF0D94DF7D0034E888 /* RootViewController.h */,
+				28C286E00D94DF7D0034E888 /* RootViewController.m */,
+				1B22871611488AC300C839A3 /* DetailController.h */,
+				1B22871711488AC300C839A3 /* DetailController.m */,
+				1D3623240D0F684500981E51 /* YMVTimeTableAppDelegate.h */,
+				1D3623250D0F684500981E51 /* YMVTimeTableAppDelegate.m */,
+				1B7307961144DF7F005CA2D4 /* SynthesizeSingleton.h */,
+				1B7307661144CF82005CA2D4 /* YMVData.h */,
+				1B7307671144CF82005CA2D4 /* YMVData.m */,
+				1B7307971144E0CD005CA2D4 /* MovieList.h */,
+				1B7307981144E0CD005CA2D4 /* MovieList.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* YMVTimeTable.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1B228A18114908C500C839A3 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				1B69F11C1147AFF100100D34 /* icon.png */,
+				1B2287F51148CA2500C839A3 /* default_theater00.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				D3BA7A0518AA8A590050B70B /* Library */,
+				1B228A18114908C500C839A3 /* images */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources-iPhone */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AAE50D9B0CCF005BE974 /* YMVTimeTable_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources-iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				1BA734E9118FD0900083CC18 /* DetailViewController.xib */,
+				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
+				1B730B8A114634B4005CA2D4 /* MainMenuViewController.xib */,
+				28F335F01007B36200424DE2 /* RootViewController.xib */,
+				8D1107310486CEB800E47090 /* YMVTimeTable-Info.plist */,
+			);
+			name = "Resources-iPhone";
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D3BA7A0318AA3BDA0050B70B /* libxml2.dylib */,
+				1B30C1E911477EF300C2392B /* MapKit.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D3BA79FA18AA3B120050B70B /* Objective-C-HMTL-Parser-master */ = {
+			isa = PBXGroup;
+			children = (
+				D3BA79FB18AA3B120050B70B /* HTMLNode.h */,
+				D3BA79FC18AA3B120050B70B /* HTMLNode.m */,
+				D3BA79FD18AA3B120050B70B /* HTMLParser.h */,
+				D3BA79FE18AA3B120050B70B /* HTMLParser.m */,
+				D3BA79FF18AA3B120050B70B /* README.md */,
+			);
+			path = "Objective-C-HMTL-Parser-master";
+			sourceTree = "<group>";
+		};
+		D3BA7A0518AA8A590050B70B /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				D3BA79FA18AA3B120050B70B /* Objective-C-HMTL-Parser-master */,
+			);
+			name = Library;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* YMVTimeTable */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "YMVTimeTable" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = YMVTimeTable;
+			productName = YMVTimeTable;
+			productReference = 1D6058910D05DD3D006BFB54 /* YMVTimeTable.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "YMVTimeTable" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* YMVTimeTable */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
+				28F335F11007B36200424DE2 /* RootViewController.xib in Resources */,
+				1B730B8C114634B4005CA2D4 /* MainMenuViewController.xib in Resources */,
+				1B69F11D1147AFF100100D34 /* icon.png in Resources */,
+				1B2287F61148CA2500C839A3 /* default_theater00.png in Resources */,
+				1BA734EB118FD0900083CC18 /* DetailViewController.xib in Resources */,
+				D3BA7A0218AA3B120050B70B /* README.md in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* YMVTimeTableAppDelegate.m in Sources */,
+				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
+				1B7307681144CF82005CA2D4 /* YMVData.m in Sources */,
+				D3BA7A0018AA3B120050B70B /* HTMLNode.m in Sources */,
+				1B7307991144E0CD005CA2D4 /* MovieList.m in Sources */,
+				D3BA7A0118AA3B120050B70B /* HTMLParser.m in Sources */,
+				1B730B8B114634B4005CA2D4 /* MainMenuViewController.m in Sources */,
+				1B22871811488AC300C839A3 /* DetailController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Chenghan Tsai (4UQLH795F9)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = YMVTimeTable_Prefix.pch;
+				INFOPLIST_FILE = "YMVTimeTable-Info.plist";
+				PRODUCT_NAME = YMVTimeTable;
+				PROVISIONING_PROFILE = "15FAA09D-7CAA-450F-8D0F-C0576AE05B56";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Chenghan Tsai (4UQLH795F9)";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = YMVTimeTable_Prefix.pch;
+				INFOPLIST_FILE = "YMVTimeTable-Info.plist";
+				PRODUCT_NAME = YMVTimeTable;
+				PROVISIONING_PROFILE = "15FAA09D-7CAA-450F-8D0F-C0576AE05B56";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Chenghan Tsai (4UQLH795F9)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					/work/sr01/tim/dev/cloud/remote/lib/libxml2/include,
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "15FAA09D-7CAA-450F-8D0F-C0576AE05B56";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos3.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Chenghan Tsai (4UQLH795F9)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					/work/sr01/tim/dev/cloud/remote/lib/libxml2/include,
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A668A34E-04B1-48DA-8AB4-00E223C4B162";
+				SDKROOT = iphoneos3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "YMVTimeTable" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "YMVTimeTable" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

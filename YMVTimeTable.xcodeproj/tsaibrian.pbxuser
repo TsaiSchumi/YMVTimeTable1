@@ -1,0 +1,341 @@
+// !$*UTF8*$!
+{
+	1B2286EF114889B100C839A3 /* LatestMVController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1065, 2886}}";
+			sepNavSelRange = "{4574, 0}";
+			sepNavVisRange = "{3076, 2282}";
+		};
+	};
+	1B22871611488AC300C839A3 /* DetailController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 875}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1021}";
+		};
+	};
+	1B22871711488AC300C839A3 /* DetailController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 4355}}";
+			sepNavSelRange = "{1620, 0}";
+			sepNavVisRange = "{800, 1944}";
+		};
+	};
+	1B30C14A1147693000C2392B /* CinemaDetails.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 875}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 482}";
+		};
+	};
+	1B73078B1144DC6D005CA2D4 /* AreaListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {739, 651}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 431}";
+		};
+	};
+	1B73078C1144DC6D005CA2D4 /* AreaListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 3068}}";
+			sepNavSelRange = "{996, 0}";
+			sepNavVisRange = "{83, 1744}";
+		};
+	};
+	1B7307971144E0CD005CA2D4 /* MovieList.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 900}}";
+			sepNavSelRange = "{1494, 0}";
+			sepNavVisRange = "{0, 1825}";
+		};
+	};
+	1B7307981144E0CD005CA2D4 /* MovieList.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1583, 5369}}";
+			sepNavSelRange = "{11670, 0}";
+			sepNavVisRange = "{10277, 2771}";
+		};
+	};
+	1B7309FE1145F1FD005CA2D4 /* CinemaListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 875}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 449}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* YMVTimeTable */ = {
+		activeExec = 0;
+		executables = (
+			68CBE8AA1147B28B006A8FC8 /* YMVTimeTable */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* YMVTimeTable_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 875}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 330}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 900}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 556}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 2990}}";
+			sepNavSelRange = "{198, 0}";
+			sepNavVisRange = "{0, 262}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68CBE8AA1147B28B006A8FC8 /* YMVTimeTable */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* YMVTimeTable */;
+		codeSenseManager = 68CBE8BB1147B293006A8FC8 /* Code sense */;
+		executables = (
+			68CBE8AA1147B28B006A8FC8 /* YMVTimeTable */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					618,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294686524;
+			PBXWorkspaceStateSaveDate = 294686524;
+		};
+		perUserProjectItems = {
+			6817C67711908F340092F091 /* PBXTextBookmark */ = 6817C67711908F340092F091 /* PBXTextBookmark */;
+			6817C67811908F340092F091 /* PBXTextBookmark */ = 6817C67811908F340092F091 /* PBXTextBookmark */;
+			6817C6A0119095E40092F091 /* PBXTextBookmark */ = 6817C6A0119095E40092F091 /* PBXTextBookmark */;
+			6817C6A2119095E40092F091 /* PBXBookmark */ = 6817C6A2119095E40092F091 /* PBXBookmark */;
+			6817C6A3119095E40092F091 /* PBXTextBookmark */ = 6817C6A3119095E40092F091 /* PBXTextBookmark */;
+			6817C6B6119097B80092F091 /* PBXTextBookmark */ = 6817C6B6119097B80092F091 /* PBXTextBookmark */;
+			6817C6B7119097B80092F091 /* PBXTextBookmark */ = 6817C6B7119097B80092F091 /* PBXTextBookmark */;
+			6817C6B8119097B80092F091 /* PBXTextBookmark */ = 6817C6B8119097B80092F091 /* PBXTextBookmark */;
+			6817C6B9119097B80092F091 /* PBXTextBookmark */ = 6817C6B9119097B80092F091 /* PBXTextBookmark */;
+			6817C6C611909AE00092F091 /* PBXTextBookmark */ = 6817C6C611909AE00092F091 /* PBXTextBookmark */;
+			6817C6C711909AE00092F091 /* PBXTextBookmark */ = 6817C6C711909AE00092F091 /* PBXTextBookmark */;
+			6817C6D711909CA40092F091 /* PBXTextBookmark */ = 6817C6D711909CA40092F091 /* PBXTextBookmark */;
+			6817C6DF11909F490092F091 /* XCBuildMessageTextBookmark */ = 6817C6DF11909F490092F091 /* XCBuildMessageTextBookmark */;
+			6817C6E51190A10A0092F091 /* PBXTextBookmark */ = 6817C6E51190A10A0092F091 /* PBXTextBookmark */;
+			68CBE8C51147B4F3006A8FC8 /* PBXTextBookmark */ = 68CBE8C51147B4F3006A8FC8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68CBE8BA1147B293006A8FC8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 875}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 347}";
+		};
+	};
+	6817C67711908F340092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B73078C1144DC6D005CA2D4 /* AreaListViewController.m */;
+		name = "AreaListViewController.m: 40";
+		rLen = 0;
+		rLoc = 996;
+		rType = 0;
+		vrLen = 1744;
+		vrLoc = 83;
+	};
+	6817C67811908F340092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 556;
+		vrLoc = 0;
+	};
+	6817C6A0119095E40092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B7307971144E0CD005CA2D4 /* MovieList.h */;
+		name = "MovieList.h: 50";
+		rLen = 0;
+		rLoc = 1494;
+		rType = 0;
+		vrLen = 1825;
+		vrLoc = 0;
+	};
+	6817C6A2119095E40092F091 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1B69F11C1147AFF100100D34 /* icon.png */;
+	};
+	6817C6A3119095E40092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B7309FE1145F1FD005CA2D4 /* CinemaListViewController.h */;
+		name = "CinemaListViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 449;
+		vrLoc = 0;
+	};
+	6817C6B6119097B80092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* YMVTimeTable_Prefix.pch */;
+		name = "YMVTimeTable_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 0;
+	};
+	6817C6B7119097B80092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 0;
+	};
+	6817C6B8119097B80092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B30C14A1147693000C2392B /* CinemaDetails.m */;
+		name = "CinemaDetails.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 482;
+		vrLoc = 0;
+	};
+	6817C6B9119097B80092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B22871611488AC300C839A3 /* DetailController.h */;
+		name = "DetailController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1021;
+		vrLoc = 0;
+	};
+	6817C6C611909AE00092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 11";
+		rLen = 0;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 2231;
+		vrLoc = 2897;
+	};
+	6817C6C711909AE00092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B2286EF114889B100C839A3 /* LatestMVController.m */;
+		name = "LatestMVController.m: 160";
+		rLen = 0;
+		rLoc = 4574;
+		rType = 0;
+		vrLen = 2282;
+		vrLoc = 3076;
+	};
+	6817C6D711909CA40092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B7307981144E0CD005CA2D4 /* MovieList.m */;
+		name = "MovieList.m: 310";
+		rLen = 0;
+		rLoc = 11670;
+		rType = 0;
+		vrLen = 2771;
+		vrLoc = 10277;
+	};
+	6817C6DF11909F490092F091 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ':' before ']' token";
+		fRef = 1B22871711488AC300C839A3 /* DetailController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 59;
+		rType = 1;
+	};
+	6817C6E51190A10A0092F091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B22871711488AC300C839A3 /* DetailController.m */;
+		name = "DetailController.m: 60";
+		rLen = 0;
+		rLoc = 1620;
+		rType = 0;
+		vrLen = 1944;
+		vrLoc = 800;
+	};
+	68CBE8AA1147B28B006A8FC8 /* YMVTimeTable */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = YMVTimeTable;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	68CBE8BA1147B293006A8FC8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68CBE8BB1147B293006A8FC8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68CBE8C51147B4F3006A8FC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B73078B1144DC6D005CA2D4 /* AreaListViewController.h */;
+		name = "AreaListViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+}
